@@ -90,7 +90,4 @@ npm run web
 1. Cada uma das pastas possui um arquivo **README.md** próprio com instruções e passo-a-passo de como o projeto foi desenvolvido, porém, o projeto foi feito para funcionar seguindo apenas as instruções deste arquivo, que está fora das pastas.
 2. Os arquivos devem ser executados na ordem **Back-TrabWebAvan-b2** > **Front-WebAvan-b2** para funcionar da maneira correta, sem erros.
 3. Instalar as extensões PrismaORM e dotenv antes de começar a executar o código da API, É DE EXTREMA IMPORTÂNCIA para evitar transtornos.
-
-```
-
 4. Caso queira abrir as duas pastas é possível usando o VS Code, mas é Importante que uso terminais diferentes para rodar.
