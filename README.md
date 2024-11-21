@@ -1,4 +1,4 @@
-# Prova de Programação Avançada para Web
+# Prova de Programação Avançada Web
 
 ## Como usar
 
