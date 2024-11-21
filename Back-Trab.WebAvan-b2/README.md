@@ -1,7 +1,4 @@
-# Trabalho de Programação Avançada para WEB
-
-
-## Lista de comandos usados no projeto
+## Comandos usados nesse projeto
 
 - npm init -y: Cria um arquivo package.json com as configurações padrão.
 - npm i typescript: Instala o TypeScript como dependência do projeto.
@@ -26,19 +23,15 @@
 }
 ```
 
-## Scripts que estão sendo utilizados no package.json
+## Alguns dos Scripts que estão sendo utilizados no package.json
 
 - "build": "npx tsc"
 - "dev": "npx ts-node ./src/server.ts"
 
-## Configurando um servidor web
+## ServerWeb configure
 
 - npm install express
 - npm i --save-dev @types/express
-
-## Projeto para usar múltiplas versões do NodeJS na mesma máquina
-
-- https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script
 
 ## Algumas extensões do VSCode recomendadas
 
